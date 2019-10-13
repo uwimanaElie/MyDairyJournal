@@ -1,0 +1,481 @@
+#container {
+    background-color:#C5D1D9;
+    }
+    
+    .main-header {
+    background-size:cover;
+    padding-bottom:30px;
+    border-radius:20px;
+    }
+    
+    .navigation ul {
+    margin:0;
+    }
+    
+    #go-left {
+    float:left;
+    font-size:20px;
+    }
+    
+    .navigation li {
+    display:inline;
+    }
+    
+    .navigation a {
+    color:#000;
+    text-decoration:none;
+    display:inline-block;
+    font-size:20px;
+    padding:.5em;
+    }
+    
+    .navigation a:hover {
+    background-color:#f0f8ff;
+    }
+    
+    .main-nav {
+    text-align:center;
+    font-size: 1.1em;
+    border-bottom:3px solid #f1f1f1;
+    }
+    
+    .main-nav li {
+    padding:0 1%;
+    }
+    
+    .band-name {
+    text-align:center;
+    font-size:4em;
+    margin:0;
+    }
+    
+    .section-header {
+    text-align:center;
+    font-size:47px;
+    font-weight:italic;
+    }
+    
+    .para {
+    text-align:center;
+    font-size:20px;
+    line-height:200%;
+    border:3px solid #f1f1f1;
+    border-radius:20px;
+    width:100%;
+    padding:10px 0;
+    }
+    
+    .main-footer {
+    background-color:#9CBCD9;
+    color:auto;
+    width:100%;
+    height:90px;
+    border-radius:20px;
+    border:3px solid #f1f1f1;
+    }
+    
+    .main-footer:hover {
+    opacity:0.8;
+    }
+    
+    .btn {
+    background-color:#6394BF;
+    border:none;
+    cursor:pointer;
+    width:7%;
+    font-size:15px;
+    border-radius:13px;
+    margin:40px 6px;
+    padding:9px 7px;
+    }
+    
+    .btn:hover {
+    opacity:100;
+    color:#FFF;
+    }
+    
+    #h3 {
+    padding:0 20px;
+    }
+    .main-body {
+        font-size:1em;
+        line-height:200%;
+        border:3px solid #f1f1f1;
+        border-radius:20px;
+        width:100%;
+        padding:10px 0;
+        background-color:#C5D1D9;
+        background-attachment: fixed;
+        margin-left:0 auto;
+      }
+      .paragraph,.header3 {
+        padding:15px 45px;
+        font-size:20px;
+      }
+      .body1 {
+        font-family:Arial,Hervetica,sans-serif;
+        background-color:#C5D1D9;
+        background-position:center;
+        background-attachment: fixed;
+      }
+      .container2 {
+        width:420px;
+        height:675px;
+        position:relative;
+        box-sizing:border-box;
+        border:3px solid #f1f1f1;
+        border-radius:13px;
+        padding:16px;
+        margin: 0 auto;
+      }
+      .form-header {
+        text-align:center;
+        padding-left:100px;
+      }
+      input[type=text],input[type=password],input[type=email] {
+        width:100%;
+        padding:12px 20px;
+        margin:8px 0;
+        display:inline-block;
+        border:1px solid #ccc;
+        box-sizing:border-box;
+      }
+      .signupbtn {
+        background-color:#6394BF;
+        border:none;
+        color: white;
+        padding: 9px 22px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 8px 0px;
+        cursor: pointer;
+        border-radius:15px;
+        width:30%;
+      }
+      .rememb-me {
+        float:right;
+        margin:20px;
+      }
+      .signupbtn:hover {
+      opacity:0.8;
+      }
+      
+      .bod {
+        margin: 0 auto;
+      }
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+         background-color:#C5D1D9;
+        border: 3px solid #f1f1f1;
+        border-radius:13px;
+        width:450px;
+        background-position:center;
+        background-attachment: fixed;
+      }
+      .log-form {
+        text-align:left;
+        padding-left:140px;
+      }
+      input[type=text],input[type=password]{
+        width: 100%;
+        padding: 12px 20px;
+        margin:8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+      
+      button {
+        background-color:#6394BF;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border:none;
+        cursor: pointer;
+        width: 30%;
+        border-radius:13px;
+        font-size: 18px;
+      }
+      
+      button:hover {
+        opacity:0.8;
+      }
+      .rememb-me {
+        float:right;
+        margin:20px;
+      }
+      .cancelbtn {
+        width: 20%;
+        padding:10px 18px;
+       
+      .container3 {
+        padding:;
+      }
+      
+      span.password {
+        margin-left:10px;
+        padding-top: 16px;
+      }
+        .cancelbtn {
+           width: 18%;
+          border-radius:20px;
+        }
+        .container4 {
+            background-color:#C5D1D9;
+         }
+         
+         .headr{
+           padding-left:400px;
+       font-size:27px;
+     }	.new-entry {
+           background-color:#6394BF;
+           color: white;
+           padding:14px 20px;
+           margin:8px 10px;
+           border:none;
+           cursor:pointer;
+           width:11%;
+           border-radius:14px;
+         }
+         .new-entry:hover {
+         opacity:0.8;  
+         }
+         .Table {
+           font-family: Arial,Helvetica,sans-serif;
+           border-collapse: collapse;
+           width: 100%;
+           border: 2px solid #f1f1f1;
+           border-radius:13px;
+           }
+         .Table td,.Table th {
+           border: 1px solid #ddd;
+           padding: 8px;
+           border-collapse: collapse;
+         }
+         .Table tr:hover {
+           background-color: #ddd;
+         }
+         .Table th {
+           padding-top: 12px;
+           padding-bottom: 12px;
+           text-align: left;
+           background-color:none;
+           color: white;
+         }
+         .save-btn {
+            background-color: #6394BF;
+           color: white;
+           padding: 14px 20px;
+           margin: 8px 0;
+           border:none;
+           cursor: pointer;
+           width: 11%;
+           border-radius:14px;
+           float:left;
+           margin:10px;
+         }
+         .save-btn {
+           padding:16px;
+         }
+          .save-btn:hover {
+           opacity: 0.8;
+         }
+         
+         .back-btn {
+           background-color: #6394BF;
+           color: white;
+           padding: 14px 20px;
+           margin: 8px 0;
+           border:none;
+           cursor: pointer;
+           width: 11%;
+           border-radius:14px;
+           float:left;
+           margin:10px;
+           padding:16px;
+           
+         }
+         .back-btn:hover {
+           opacity: 0.8;
+     }
+     h3 {
+        padding-left:140px;
+      }
+      .body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color:#C5D1D9;
+        border: 3px solid #f1f1f1;
+        border-radius:13px;
+        width:450px;
+        height:350px;
+        background-position:center;
+        background-attachment: fixed;
+        margin:0 auto;
+      }
+      .diaries,textarea[type=text],input[type=date]{
+        width:100%;
+        padding:12px 20px;
+        margin:8px 0;
+        display:inline-block;
+        box-sizing:border-box;
+      }
+      button {
+        background-color:#6394BF;
+        color:white;
+        padding:9px 7px;
+        margin:0px 6px;
+        border:none;
+        cursor:pointer;
+        width:30%;
+        border-radius:13px;
+        
+      }
+      button:hover{
+        opacity:0.8;
+      }
+      h4 {
+        padding-left:140px;
+        font-size:20px;
+      }
+      .body2 {
+        font-family: Arial, Helvetica, sans-serif;
+        border:3px solid #f1f1f1;
+        width:550px;
+        border-radius:20px;
+        float:right;
+         background-color:#C5D1D9;
+        margin:0 auto;
+      }
+      .para4 {
+        width:500px;
+        padding:10px;
+        margin:0 auto;
+      }
+      button {
+        background-color:#6394BF;
+        color:white;
+        padding:14px 20px;
+        margin:8px 0;
+        border:none;
+        cursor:pointer;
+        width:18%;
+        border-radius:20px;
+      }
+      button:hover {
+        opacity:0.8
+      }
+      .menu {
+        float:right;
+        margin-right:12px;
+      }
+      h4 {
+        padding-left:140px;
+        font-size:20px;
+      }
+      .body6 {
+        font-family: Arial, Helvetica, sans-serif;
+        border:3px solid #f1f1f1;
+        width:550px;
+        border-radius:13px;
+        background-color:#C5D1D9;
+        margin:0 auto;
+      }
+      .para6 {
+        width:500px;
+        padding:10px;
+        margin:10px;
+        line-height:150%;
+        border-radius:13px;
+      }
+      button {
+        background-color:#6394BF;
+        color:white;
+        padding:14px 20px;
+        margin:8px 0;
+        border:none;
+        cursor:pointer;
+        width:18%;
+        border-radius:20px;
+      }
+      button:hover {
+        opacity:0.8
+      }
+      .menu {
+        float:right;
+        margin-right:12px;
+      }
+      h4 {
+        padding-left:140px;
+        font-size:20px;
+      }
+      .body5 {
+        font-family: Arial, Helvetica, sans-serif;
+        border:3px solid #f1f1f1;
+        width:550px;
+        border-radius:13px;
+        background-color:#C5D1D9;
+        margin:0 auto;
+      }
+      .para5 {
+        width:500px;
+        padding:10px;
+        margin:10px;
+        line-height:150%;
+        border-radius:13px;
+      }
+      button {
+        background-color:#6394BF;
+        color:white;
+        padding:14px 20px;
+        margin:8px 0;
+        border:none;
+        cursor:pointer;
+        width:18%;
+        border-radius:20px;
+      }
+      button:hover {
+        opacity:0.8
+      }
+      .menu {
+        float:right;
+        margin-right:12px;
+      }
+      .avatar {
+        vertical-align: middle;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+      }
+      
+      .main {
+        font-family: Arial, Helvetica, sans-serif;
+        border: 3px solid #f1f1f1;
+        border-radius:13px;
+        width:40%;
+        height:250px;
+      }
+      #para3 {
+        float:right;
+      }
+      button {
+      background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border:none;
+        cursor: pointer;
+        width: 30%;
+        border-radius:13px;
+      }
+      .button:hover {
+        opacity:0.8;
+      }
+      .switch {
+        position: relative;
+        display: inline-block;
+        width: 60px;
+        height: 34px;
+      }
+      
